@@ -1,0 +1,31 @@
+﻿.FooterLinks
+{
+    color: white;
+    text-decoration: none !important;
+    padding: 10px
+}
+
+.demo .logo
+{
+    font-weight:bold;
+}
+
+.demo:hover
+{
+    color:#ffd700;
+}
+
+.FooterLinks:hover
+{
+    color:#ffd700;
+}
+
+#footer1
+{
+    background: #CD7F32;
+}
+
+#footer2
+{
+    background:#964B00;
+}
